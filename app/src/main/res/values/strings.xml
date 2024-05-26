@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SVK Application</string>
+    <string name="login_top_navigation_home">Thuis</string>
+    <string name="login_top_navigation_profile">Gebruiker</string>
+    <string name="login_placeholder_user">Nico</string>
+    <string name="login_user">Gebruikersnaam of code</string>
+    <string name="login_password">Wachtwoord</string>
+    <string name="login_naam">Login</string>
+    <string name="login_opslaan">Opslaan</string>
+    <string name="voeg_laadbon_toe">Voeg laadbon toe</string>
+    <string name="opslaan">Opslaan</string>
+    <string name="laadbonnummer">Laadbonnummer</string>
+    <string name="adres">Adres</string>
+    <string name="laadbon_1400157586">Laadbon: 1400157586</string>
+    <string name="edit_laadbon">Bewerk laadbon</string>
+</resources>
